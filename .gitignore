@@ -1,3 +1,23 @@
+legacy
+appeng
+buildcraft
+com
+cpw
+forestry
+ibxm
+ic2
+net
+paulscode
+railcraft
+fml_at.cfg
+fml_marker.cfg
+fmlversion.properties
+forge_at.cfg
+forge_logo.png
+mcp.png
+mcpmod.info
+Start.java
+
 # Compiled class file
 *.class
 
